@@ -1,0 +1,17 @@
+{
+	"name": "volar-erroneous-null-repro",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "vue-tsc --noEmit"
+	},
+	"keywords": [],
+	"author": "James Ross <james@jross.me> (https://jross.me/)",
+	"license": "MIT",
+	"devDependencies": {
+		"typescript": "5.4.4",
+		"vue": "^3.4.21",
+		"vue-tsc": "2.0.7"
+	}
+}
