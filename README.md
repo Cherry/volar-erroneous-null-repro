@@ -8,3 +8,5 @@ Run `npm run test` in each branch to see the issue.
 In `main`, no errors occur.
 In `2.1.0`, the following error occurs:
 ```
+src/example.vue:27:35 - error TS18047: '__VLS_ctx.example.foo.bar' is possibly 'null'.
+```
